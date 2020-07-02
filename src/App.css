@@ -25,8 +25,8 @@ body {
 }
 
 #to-do-form input::placeholder{
-  color: aliceblue;
-  font-weight: bolder;
+  color: #09948d;
+  
 }
 
 #to-do-form input:focus, #to-do-form button:focus {

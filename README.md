@@ -1,3 +1,18 @@
+# ToDoApp
+Simple to do application. Application was created to grow up skills work with React.
+
+##First view of ToDoApp:
+
+![firstView](https://user-images.githubusercontent.com/50556211/86947143-ac8f4580-c14b-11ea-8449-875aa6c9a894.png)
+
+##View after adding tasks:
+
+![secondView](https://user-images.githubusercontent.com/50556211/86947150-af8a3600-c14b-11ea-81ba-d1671c969b12.png)
+
+## Removing tasks from the list
+
+![thirdView](https://user-images.githubusercontent.com/50556211/86947157-b31dbd00-c14b-11ea-8260-43bff8f9cd40.png)![fourthView](https://user-images.githubusercontent.com/50556211/86947162-b5801700-c14b-11ea-8b05-6b5f5610a17a.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

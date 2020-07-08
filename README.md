@@ -1,11 +1,11 @@
 # ToDoApp
 Simple to do application. Application was created to grow up skills work with React.
 
-##First view of ToDoApp:
+## First view of ToDoApp:
 
 ![firstView](https://user-images.githubusercontent.com/50556211/86947143-ac8f4580-c14b-11ea-8449-875aa6c9a894.png)
 
-##View after adding tasks:
+## View after adding tasks:
 
 ![secondView](https://user-images.githubusercontent.com/50556211/86947150-af8a3600-c14b-11ea-81ba-d1671c969b12.png)
 
